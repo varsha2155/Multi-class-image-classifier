@@ -22,9 +22,9 @@ The goal of this project was to build an **efficient, accurate multi-class image
 - Achieved **92.68% training accuracy** after 15 epochs
 
 📈 Accuracy Progress:
-Epoch [1/15] | Accuracy: 18.29%
-Epoch [10/15] | Accuracy: 69.92%
-Epoch [15/15] | ✅ Final Accuracy: 92.68%
+- Epoch [1/15] | Accuracy: 18.29%
+- Epoch [10/15] | Accuracy: 69.92%
+- Epoch [15/15] | ✅ Final Accuracy: 92.68%
 
 
 ### 🟧 Phase 2 – Semi-Supervised Learning
